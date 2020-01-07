@@ -1,2 +1,1 @@
-# basic-programming
-Panduan Praktikum Dasar Pemrograman Komputer 
+# Panduan Praktikum Dasar Pemrograman Komputer 
